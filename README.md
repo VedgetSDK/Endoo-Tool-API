@@ -1,4 +1,4 @@
-EndooConsole
-============
+Endoo Console
+=============
 
-Tool Console for  Framework PHP Endoo
+Tool Console for Framework PHP Endoo
