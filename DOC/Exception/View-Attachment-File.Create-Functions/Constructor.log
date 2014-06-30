@@ -1,0 +1,13 @@
+      EndooConsole - v2.117
+    =========================
+   developed with "-C# .NET 4.5"
+                    
+    IOException of constructor - data importer.
+    =========================================== 
+  
+  #E_WARN_20010:
+    -There is no set values for the parameter "node" (Application Node name)
+    
+    
+  #E_WARN_20011:
+    -There is no set values for the parameter "container" (Application Node\Container space name)
